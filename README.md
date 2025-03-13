@@ -1,2 +1,0 @@
-# Edge
-Python-based project
